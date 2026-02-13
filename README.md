@@ -3,7 +3,6 @@ Tymesia Team Project Animation Tool
 
 <div align="center">
   <img width="400" alt="티메시아 사진" src="https://github.com/user-attachments/assets/5db9f5f0-d867-4b80-9066-f9781254cff5" />
-" />
   <br><br>
   개발기간 : 2주일 <br><br>
   📌해당 설명서는 팀원 개개인이 개별적으로 작성하기에 팀원 모두의 구현 내용을 담은 것이 아닙니다. <br><br>
